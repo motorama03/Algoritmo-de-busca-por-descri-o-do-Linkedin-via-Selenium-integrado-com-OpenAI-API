@@ -1,0 +1,1 @@
+# Algoritmo-de-busca-por-descri-o-do-Linkedin-via-Selenium-integrado-com-OpenAI-API
